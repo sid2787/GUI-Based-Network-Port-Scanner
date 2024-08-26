@@ -1,6 +1,6 @@
 # Network Port Scanner - GUI Based
 
-This project is a simple GUI-based port scanner tool written in Python. It allows users to scan a specified range of ports on a target host, save the scan results, and send the results via email. The tool uses multi-threading to perform fast scans and provides real-time updates through the GUI.
+This project is an intuitive GUI-based port scanner tool written in Python. It allows users to scan a specified range of ports on a target host, save the scan results, and send the results via email. The tool uses multi-threading to perform fast scans and provides real-time updates through the GUI.
 
 ## Features
 

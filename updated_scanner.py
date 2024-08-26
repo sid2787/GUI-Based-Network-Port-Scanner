@@ -79,8 +79,8 @@ def saveScan():
 
 def mailScan():
     # Enter E-mail credentials here
-    User = 'keyloggeralerts@gmail.com' # E-mail ID
-    Passwd = 'myaccountpass' # Email Password
+    User = 'email@gmail.com' # E-mail ID
+    Passwd = 'password' # Email Password
     msg = EmailMessage()
     msg['Subject'] = 'Scan Results For '+str(target)
     msg['From'] = User
